@@ -215,6 +215,8 @@ If we can connect all these dots, we will have completed one entire database-bac
 
 Struggle with it; **come up with questions**.
 
+########
+
 #### Optional challenge, for fun:
 
 Connect [Bootstrap][2] or a [Bootswatch][3] and make the index page look similar to [this][4], but without the user avatars and comments.
